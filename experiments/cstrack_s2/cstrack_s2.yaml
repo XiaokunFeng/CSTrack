@@ -44,7 +44,7 @@ DATA:
     SAMPLE_PER_EPOCH: 30000
 MODEL:
   PRETRAIN_FILE: "fast_itpn_base_clipl_e1600.pt"    # for backbone
-  PRETRAINED_PATH: "/mnt/first/fengxiaokun_temp/model_checkpoint_save/seqtrackv2/checkpoints/train/seqtrackv2/qt_v4_10_involve_learning_prompts/CSTRACK_S1_ep0180.pth.tar"  # note!!!!
+  PRETRAINED_PATH: "/path/to/CSTRACK_S1_ep0180.pth.tar"  # note!!!!
   BACKBONE:
     TYPE: itpn_base                         # vit_base_patch16_224_ce_adapter
     STRIDE: 16
