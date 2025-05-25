@@ -1,0 +1,4 @@
+registry:
+- ./cstrack_s1.ini
+- ./cstrack_s2.ini
+stack: vot2022/rgbd
