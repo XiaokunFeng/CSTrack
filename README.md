@@ -3,6 +3,7 @@
 > [Xiaokun Feng](https://scholar.google.com.hk/citations?user=NqXtIPIAAAAJ), [Dailing Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu Hu](https://huuuuusy.github.io/), [Xuchen Li](https://github.com/Xuchen-Li), [Meiqi Wu](https://scholar.google.com.hk/citations?user=fGc7NVAAAAAJ), [Jing Zhang](https://github.com/XiaokunFeng/CSTrack), [Xiaotang Chen](http://www.ia.cas.cn/rcdw/fyjy/202404/t20240422_7129814.html), [Kaiqi Huang](https://people.ucas.ac.cn/~0004554)
 
 
+[![](https://img.shields.io/badge/CSTrack-arXiv%20-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2505.19434)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20CSTrack-Results&models-red)](https://huggingface.co/Xiaokunfeng2022/CSTrack)
 
 This is an official pytorch implementation of the paper **CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**.
