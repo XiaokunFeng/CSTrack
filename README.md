@@ -11,8 +11,8 @@ This is an official pytorch implementation of the paper **CSTrack: Enhancing RGB
 
 ## 🔥 Updates
 
-*   \[5/2024\] **CStrack's** code is available!
-*   \[5/2024\] **CStrack**  is accepted by ICML25!
+*   \[5/2025\] **CStrack's** code is available!
+*   \[5/2025\] **CStrack**  is accepted by ICML25!
 
 ## 📣 Overview
 ### Our motivation & Core modeling approach
